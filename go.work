@@ -1,0 +1,8 @@
+go 1.21.0
+
+use (
+	./01hello
+	./02variables
+	./03userinput
+	./04conversions
+)
