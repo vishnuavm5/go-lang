@@ -5,4 +5,5 @@ use (
 	./02variables
 	./03userinput
 	./04conversions
+	./05mymath
 )
