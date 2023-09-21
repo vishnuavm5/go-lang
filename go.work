@@ -7,4 +7,8 @@ use (
 	./04conversions
 	./05mymath
 	./06mytime
+	./07mypointers
+	./08myarray
+	./09slices
+	./10maps
 )
