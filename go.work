@@ -11,4 +11,8 @@ use (
 	./08myarray
 	./09slices
 	./10maps
+	./11mystruct
+	./12ifelse
+	./13switchcase
+	./14loops
 )
