@@ -15,4 +15,7 @@ use (
 	./12ifelse
 	./13switchcase
 	./14loops
+	./15functions
+	./16methods
+	./17defer
 )
