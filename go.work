@@ -18,4 +18,9 @@ use (
 	./15functions
 	./16methods
 	./17defer
+	./18files
+	./19webrequest
+	./20urls
+	./21webreqverbs
+	./22bitmorejson
 )
